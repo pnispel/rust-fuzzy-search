@@ -1,0 +1,4 @@
+ ✔ hash files so we know what files weve seen before @done (15-09-26 11:35)
+ ☐ create inverted hash table for workds
+ ✔ create index directory to store data @done (15-09-26 13:02)
+ ☐ surround table creation in try!
